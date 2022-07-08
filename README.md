@@ -1,0 +1,1 @@
+Algoritmo para busca de impasses, para um dado número de processos e recursos. É necessário ter a biblioteca Numpy instalada para a execução e um iterpretador compativel com o PYTHON 3.8.8.
